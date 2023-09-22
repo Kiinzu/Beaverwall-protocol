@@ -1,7 +1,7 @@
 # Beaverwall-protocol
 
 <p align=center>
-    <img src=./assets/Beaverwall.png width=72%>
+    <img src=./assets/Beaverwall.png width=58%>
 </p>
 
 As technology continues to advance, physical documents are often overlooked in favor of digital formats. However, this can come with its own set of challenges, such as the risk of loss or fraud. Valuable documents like passports, ownership certificates, and ID cards are particularly vulnerable. For example, ownership of land can be easily forged, and in developing countries, there may not be a clear record of ownership to begin with. Losing such a document can be a permanent and difficult problem to solve.   
