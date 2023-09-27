@@ -10,3 +10,6 @@ Fortunately, the **Beaverwall-Protocol** was created to address these issues. Th
 
 ### Stage-1
 Stage 1 of this project is to create the logic behind the program, currently I'm using python to create the basic code and a **credentials.txt** as its' Database.
+
+### Stage-2
+We are trying to deploy the private blockchain using the GETH.
